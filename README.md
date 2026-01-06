@@ -35,12 +35,12 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
   <tr>
     <td style="border: none; vertical-align: top;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>🎓 Actualmente estudio <b>Ingeniería de Sistemas y Economía</b> en la <b>UMSA - UPEA</b></li>
+        <li>🎓 Actualmente estudio <b>Ingeniería de Sistemas y Economía</b> en la <b> UMSA - UPEA </b></li>
         <li>🤝 Busco colaborar en proyectos de <b>Seguridad de la Información</b>, <b>Análisis de Datos</b> e <b>Inteligencia Artificial</b></li>
         <li>🌱 Actualmente estoy aprendiendo <b>Machine Learning</b> y herramientas de <b>IA</b></li>
-        <li>🔌 Conocimientos en <b>redes cableadas</b> y configuración básica de equipos <b>Cisco</b></li>
+        <li>💻 Mantenimiento preventivo y correctivo de <b>computadoras Software y Hadware</b></li>
+        <li>🔌 Conocimientos en <b>redes cableadas</b> y configuración básica de equipos <b>Físicos e Inalámbricos</b></li>
         <li>🛠️ Experiencia en <b>mantenimiento de equipos de infraestructura</b> tecnológica</li>
-        <li>💻 Mantenimiento preventivo y correctivo de <b>computadoras</b></li>
         <li>👨🏻‍💻 La mayoría de mis proyectos están disponibles en <a href="https://github.com/JhonatanBDev">GitHub</a></li>
         <li>💬 Pregúntame cualquier cosa relacionada con tecnología, con gusto ayudo</li>
         <li>📫 No dudes en contactarme por <a href="https://www.linkedin.com/in/jhonatan-guarachi-callisaya-4640b529b/">LinkedIn</a></li>
