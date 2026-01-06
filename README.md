@@ -73,7 +73,7 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
   <code><img src="./assets/logo-fisico-red.png" height="42"></code>
   <code><img src="./assets/logo-inalambrico-red.png" height="42"></code>
   <code><img src="./assets/logo-repararbd-red.png" height="42"></code>
-  <code><img src="./assets/logo-reparar-red.png" height="42"></code>v
+  <code><img src="./assets/logo-reparar-red.png" height="42"></code>
 </p>
 
 <br>
