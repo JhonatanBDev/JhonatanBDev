@@ -69,9 +69,11 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
 
 <h1 align="center">🛠️ Trabajos Técnicos</h1>
 <p align="center">
+  <code><img src="./assets/logo-cisco-red.png" height="42"></code>
   <code><img src="./assets/logo-fisico-red.png" height="42"></code>
-  <code><img src="./assets/logo-inalambrico.png" height="42"></code>
-  <code><img src="./assets/logo-cisco.png" height="42"></code>
+  <code><img src="./assets/logo-inalambrico-red.png" height="42"></code>
+  <code><img src="./assets/logo-repararbd-red.png" height="42"></code>
+  <code><img src="./assets/logo-reparar-red.png" height="42"></code>v
 </p>
 
 <br>
