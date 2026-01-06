@@ -43,7 +43,7 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
         <li>💻 Mantenimiento preventivo y correctivo de <b>computadoras</b></li>
         <li>👨🏻‍💻 La mayoría de mis proyectos están disponibles en <a href="https://github.com/JhonatanBDev">GitHub</a></li>
         <li>💬 Pregúntame cualquier cosa relacionada con tecnología, con gusto ayudo</li>
-        <li>📫 No dudes en contactarme por <a href="#">LinkedIn</a></li>
+        <li>📫 No dudes en contactarme por <a href="https://www.linkedin.com/in/jhonatan-guarachi-callisaya-4640b529b/">LinkedIn</a></li>
       </ul>
     </td>
     <td style="border: none; text-align: right;">
