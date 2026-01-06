@@ -24,9 +24,9 @@
 Me llamo <b>Jhonatan Bruno G.C</b>, mejor conocido como <b>'JhonatanBDev'</b> 🕵🏼‍♂️ <br />
 Soy de <strong>Bolivia, La Paz</strong> 🇧🇴 <br />
 Soy un chico al que le encanta desarrollar cosas nuevas 🖥️ <br />
-Así que… soy más que un robot programando 🤖, soy un humano real intentando aprender cosas nuevas y desarrollar proyectos increíbles con ❤️ mientras conozco personas increíbles en el camino 🚀 <br />
+Así que… soy más que un robot programando 🤖, soy un chico intentando aprender cosas nuevas y desarrollar proyectos increíbles con ❤️ mientras conozco personas increíbles en el camino 🚀 <br />
 Si te interesa alguien con buena vibra, que ama el conocimiento y el aprendizaje constante 📚, <b>⚙️ SOY TU PERSONA ⚙️</b> <br />
-Contáctame para nuevos proyectos 📨, <sup>estoy abierto a colaborar contigo</sup>
+Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b>
 <br/><br/> 
 
 
@@ -100,7 +100,7 @@ Contáctame para nuevos proyectos 📨, <sup>estoy abierto a colaborar contigo</
   </a>
 </p>
 -->
--->
+
 
 
 
