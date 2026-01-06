@@ -56,7 +56,7 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
 <br><br>
 
 <!-- Lenguajes -->
-<h1 align="center">🛠️ Lenguajes / Frameworks que manejo</h1>
+<h1 align="center">📘 Lenguajes / Frameworks que manejo</h1>
 <p align="center">
   <code><img src="./assets/node.png" height="42"></code>
   <code><img src="./assets/js.png" height="42"></code>
@@ -64,6 +64,14 @@ Contáctame para nuevos proyectos 📨, <b>estoy abierto a colaborar contigo.</b
   <code><img src="./assets/flask.png" height="42"></code>
   <code><img src="./assets/html.png" height="42"></code>
   <code><img src="./assets/css.png" height="42"></code>
+</p>
+<br>
+
+<h1 align="center">🛠️ Trabajos Técnicos</h1>
+<p align="center">
+  <code><img src="./assets/logo-fisico.png" height="42"></code>
+  <code><img src="./assets/logo-inalambrico.png" height="42"></code>
+  <code><img src="./assets/logo-cisco.png" height="42"></code>
 </p>
 
 <br>
